@@ -1,3 +1,4 @@
-# whmcs-lang-hindi
-Hindi language file for WHMCS.
-20x14 flag icon for Lagom theme language picker drop down.
+# whmcs-lang-translations
+Third party language translation files for WHMCS. Some languages not natively supported by WHMCS.\
+20x14 svg icons for each for RSStudio Lagom2 style language picker drop down.\
+https://extravm.com
