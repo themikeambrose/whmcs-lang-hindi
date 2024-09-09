@@ -1865,7 +1865,7 @@ $_LANG['oauth']['authorise'] ="許可";
 $_LANG['oauth']['currentlyLoggedInAs'] ="現在、as:firstName:lastNameとしてログインしています";
 $_LANG['oauth']['notYou'] ="あなたではありませんか？";
 $_LANG['oauth']['returnToApp'] ="戻る:appname";
-$_LANG['oauth']['copyrightFooter'] ="著作権＆コピー;:dateyear:companyName。無断転載を禁じます。";
+$_LANG['oauth']['copyrightFooter'] ="著作権 &copy; :dateYear :companyName。無断転載を禁じます。";
 $_LANG['oauth']['loginToGrantApp'] ="付与にログインする:appname <br />アカウントへのアクセス";
 $_LANG['oauth']['redirectDescriptionOne'] ="アプリケーションにリダイレクトします。これには少し時間がかかる場合があります。";
 $_LANG['oauth']['redirectDescriptionTwo'] ="ブラウザがリダイレクトしない場合は、お願いします";
@@ -2729,7 +2729,7 @@ $_LANG['store']['ssl']['landingPage']['secureConnection'] ="ブラウザとサ�
 $_LANG['store']['ssl']['landingPage']['encrypts'] ="コミュニケーションを暗号化して、顧客が提供する機密情報を保護する";
 $_LANG['store']['ssl']['landingPage']['padlock'] ="ブラウザ内のウェブアドレスの隣に南京錠を置きます";
 $_LANG['store']['ssl']['landingPage']['authenticates'] ="組織のアイデンティティを認証します";
-$_LANG['store']['ssl']['landingPage']['certTypeInfo'] ="<a href=\":dvlink\">標準SSL（ドメイン検証）</a>証明書は、SSL証明書の最も簡単で最も一般的なタイプです。<a href=\":ovlink\"> ov </a>および<a href=\":Evlink\"> eV証明エンドユーザーに。<br> <br> SSL証明書サービス*を使用すると、毎年新しい証明書を構成および展開するための手動の手順を実行する必要はありません。証明書がその有効性の終わりに近づくと、自動的に更新命令を生成します。支払い後、新しい証明書を自動的に構成、検証、およびプロビジョニングします。、Plesk、またはdirectadmin。</small>";
+$_LANG['store']['ssl']['landingPage']['certTypeInfo'] ="<a href=\":dvLink\">標準SSL（ドメイン検証）</a>証明書は、SSL証明書の最も簡単で最も一般的なタイプです。<a href=\":ovLink\"> ov </a>および<a href=\":evLink\"> eV証明エンドユーザーに。<br> <br> SSL証明書サービス*を使用すると、毎年新しい証明書を構成および展開するための手動の手順を実行する必要はありません。証明書がその有効性の終わりに近づくと、自動的に更新命令を生成します。支払い後、新しい証明書を自動的に構成、検証、およびプロビジョニングします。、Plesk、またはdirectadmin。</small>";
 $_LANG['store']['ssl']['landingPage']['benefits']['title'] ="検索エンジンのランキングを改善します";
 $_LANG['store']['ssl']['landingPage']['benefits']['subtitle'] ="あなたのウェブサイトの訪問者とビジネスのために信頼とオンラインセキュリティを確立します。";
 $_LANG['store']['ssl']['landingPage']['benefits']['higherResults'] ="Googleは、Webをより安全にしたいと考えており、その大部分は、Googleを介して人々のサイトが安全であることを確認することです。そのため、SSLを使用したWebサイトは、検索結果のより高いランキングの恩恵を受けることが示されています。";
